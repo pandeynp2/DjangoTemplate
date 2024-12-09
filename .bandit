@@ -1,0 +1,17 @@
+[bandit]
+# Directories or files to exclude from the scan
+exclude = \frontend,scripts,tests,\venv,.idea
+
+# Skip specific plugins (e.g., B101 - assert statement detection)
+skipped_plugins = B101,B103,B104,B105,B106,B107,B108
+
+# Directories or files to scan
+# targets = base_code
+
+# Output format (uncomment if required)
+output_format = xml
+
+# Severity levels to include (LOW, MEDIUM, HIGH)
+severity = HIGH
+
+# Specify output file during execution using -o flag

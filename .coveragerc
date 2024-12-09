@@ -1,0 +1,3 @@
+[run]
+omit = */tests/*, */migrations/*, *__init__*, dsm/wsgi.py, manage.py, */api/*
+# include = *views*, *models*, */settings.py, *urls*
