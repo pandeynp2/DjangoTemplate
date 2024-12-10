@@ -3,3 +3,5 @@ djangorestframework
 drf-yasg
 coverage
 python-dotenv
+flake8
+bandit
