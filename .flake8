@@ -1,4 +1,4 @@
-# This is a flake8 cofiguration file that bends pep8 standard set of rules
+# This is a flake8 configuration file that bends pep8 standard set of rules
 # to enforce D&A Coding Standards.
 # Options that are subject to customization per project are located at the end of file.
 # It is also used to check for .ipynb in case `.flake8_notebooks` is not present
